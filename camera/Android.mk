@@ -80,7 +80,7 @@ LOCAL_SHARED_LIBRARIES := \
 	libdomx \
 	libion_ti \
 	libjpeg \
-	libjhead
+	libexif
 
 LOCAL_CFLAGS := -fno-short-enums -DCOPY_IMAGE_BUFFER
 
